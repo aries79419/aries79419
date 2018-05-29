@@ -51,13 +51,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </thead>
 <tbody>
 <tr>
-<td align="right">9789629373252</td>
-<td>1977–2005：絕地守望</td>
-<td>钱理群</td>
+<td align="right">9787511727558</td>
+<td>中共的治理与适应</td>
+<td> 俞可平 / 〔德〕托马斯•海贝勒 / 〔德〕安晓</td>
 <td><a download target="_blank" href="https://sgp1.digitaloceanspaces.com/proletarian-library/upload-books/2018-05-22/1977-2005%E7%BB%9D%E5%9C%B0%E5%AE%88%E6%9C%9B.pdf">Download</a></td>
 <td>394.4</td>
-<td>香港城市大学出版社</td>
-<td>2017</td>
-<td>钱理群 知识分子 历史 2017</td>
+<td>中央编译出版社</td>
+<td>2015</td>
+<td>中国政治 政治学 中国共产党 当代中国 社会学 政治 海外中国研究 治党理政</td>
 <td>pdf</td>
 </tr>
